@@ -10,3 +10,7 @@
   
 > 부가적으로 RUN ["/bin/bash", "-c", "echo hello > test2.html"] 
 > => /bin/bash 셀을 이용해 echo hello > test2.html을 실행하라는 뜻입니다.
+
+
+# REFERENCE
+https://velog.io/@ckstn0777/%EB%8F%84%EC%BB%A4%ED%8C%8C%EC%9D%BCDockerfile
