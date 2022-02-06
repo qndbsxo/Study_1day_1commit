@@ -4,3 +4,4 @@ A shell script is a computer program designed to be run by the Unix/Linux shell 
 - The Korn Shell
 - The GNU Bourne_Again Shell
 
+A Shell is a command-line interpreter and typical operations performed by shell scripts include file manipulation, program execution, and printing text.
