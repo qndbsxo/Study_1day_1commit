@@ -17,5 +17,7 @@
     "**/.vscode",
     "**/.vscode/**"
   ],
-  "liveServer.settings.port": 5555
+  "liveServer.settings.port": 5555,
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true
 }
