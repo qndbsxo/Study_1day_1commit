@@ -23,4 +23,3 @@ switch(expression) {
 
 This is how it works:
 - 
-# test
